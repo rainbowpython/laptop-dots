@@ -1,0 +1,10 @@
+{
+    "editor.fontFamily": "'JetBrainsMono Nerd Font Mono'",
+    "window.customMenuBarAltFocus": false,
+    "window.menuBarVisibility": "hidden",
+    "workbench.colorTheme": "Wal",
+    "window.customTitleBarVisibility": "never",
+    "window.titleBarStyle": "native",
+    "debug.toolBarLocation": "hidden",
+    "workbench.statusBar.visible": false
+}

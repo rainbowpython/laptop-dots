@@ -1,0 +1,6 @@
+[Added Associations]
+application/vnd.microsoft.portable-executable=wine-2.desktop;
+
+[Default Applications]
+application/vnd.microsoft.portable-executable=wine-2.desktop;
+x-scheme-handler/discord=vesktop.desktop

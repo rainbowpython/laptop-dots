@@ -1,0 +1,69 @@
+2025/06/02-11:17:15.846 143c Reusing MANIFEST /home/josh/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/06/02-11:17:15.853 143c Recovering log #314
+2025/06/02-11:17:15.854 143c Reusing old log /home/josh/.config/vesktop/sessionData/Local Storage/leveldb/000314.log 
+2025/06/02-11:18:16.144 143d Level-0 table #319: started
+2025/06/02-11:18:16.156 143d Level-0 table #319: 56036 bytes OK
+2025/06/02-11:18:16.157 143d Delete type=0 #314
+2025/06/02-13:30:12.017 143c Level-0 table #321: started
+2025/06/02-13:30:12.029 143c Level-0 table #321: 54165 bytes OK
+2025/06/02-13:30:12.031 143c Delete type=0 #318
+2025/06/02-16:07:10.464 143d Level-0 table #323: started
+2025/06/02-16:07:10.476 143d Level-0 table #323: 54567 bytes OK
+2025/06/02-16:07:10.479 143d Delete type=0 #320
+2025/06/02-16:36:50.743 143d Level-0 table #325: started
+2025/06/02-16:36:50.755 143d Level-0 table #325: 54444 bytes OK
+2025/06/02-16:36:50.758 143d Delete type=0 #322
+2025/06/02-16:36:50.758 143d Compacting 4@0 + 1@1 files
+2025/06/02-16:36:50.762 143d Generated table #326@0: 96 keys, 51687 bytes
+2025/06/02-16:36:50.763 143d Compacted 4@0 + 1@1 files => 51687 bytes
+2025/06/02-16:36:50.765 143d compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/02-16:36:50.765 143d Delete type=2 #316
+2025/06/02-16:36:50.765 143d Delete type=2 #319
+2025/06/02-16:36:50.765 143d Delete type=2 #321
+2025/06/02-16:36:50.765 143d Delete type=2 #323
+2025/06/02-16:36:50.766 143d Delete type=2 #325
+2025/06/02-20:03:05.232 143d Level-0 table #328: started
+2025/06/02-20:03:05.252 143d Level-0 table #328: 50578 bytes OK
+2025/06/02-20:03:05.258 143d Delete type=0 #324
+2025/06/02-20:18:33.419 143d Level-0 table #330: started
+2025/06/02-20:18:33.439 143d Level-0 table #330: 49482 bytes OK
+2025/06/02-20:18:33.446 143d Delete type=0 #327
+2025/06/02-21:08:03.074 143c Level-0 table #332: started
+2025/06/02-21:08:03.085 143c Level-0 table #332: 49596 bytes OK
+2025/06/02-21:08:03.087 143c Delete type=0 #329
+2025/06/02-21:30:18.315 143c Level-0 table #334: started
+2025/06/02-21:30:18.327 143c Level-0 table #334: 39338 bytes OK
+2025/06/02-21:30:18.345 143c Delete type=0 #331
+2025/06/02-21:30:18.345 143c Compacting 4@0 + 1@1 files
+2025/06/02-21:30:18.349 143c Generated table #335@0: 96 keys, 50132 bytes
+2025/06/02-21:30:18.349 143c Compacted 4@0 + 1@1 files => 50132 bytes
+2025/06/02-21:30:18.351 143c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/02-21:30:18.351 143c Delete type=2 #326
+2025/06/02-21:30:18.352 143c Delete type=2 #328
+2025/06/02-21:30:18.352 143c Delete type=2 #330
+2025/06/02-21:30:18.352 143c Delete type=2 #332
+2025/06/02-21:30:18.352 143c Delete type=2 #334
+2025/06/02-22:02:15.226 143c Level-0 table #337: started
+2025/06/02-22:02:15.238 143c Level-0 table #337: 30813 bytes OK
+2025/06/02-22:02:15.241 143c Delete type=0 #333
+2025/06/02-22:21:04.059 143c Level-0 table #339: started
+2025/06/02-22:21:04.071 143c Level-0 table #339: 35346 bytes OK
+2025/06/02-22:21:04.073 143c Delete type=0 #336
+2025/06/03-00:12:46.306 143d Level-0 table #341: started
+2025/06/03-00:12:46.318 143d Level-0 table #341: 57215 bytes OK
+2025/06/03-00:12:46.321 143d Delete type=0 #338
+2025/06/03-16:27:45.843 143c Level-0 table #343: started
+2025/06/03-16:27:45.855 143c Level-0 table #343: 54085 bytes OK
+2025/06/03-16:27:45.859 143c Delete type=0 #340
+2025/06/03-16:27:45.859 143c Compacting 4@0 + 1@1 files
+2025/06/03-16:27:45.864 143c Generated table #344@0: 96 keys, 49890 bytes
+2025/06/03-16:27:45.864 143c Compacted 4@0 + 1@1 files => 49890 bytes
+2025/06/03-16:27:45.867 143c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/03-16:27:45.867 143c Delete type=2 #335
+2025/06/03-16:27:45.867 143c Delete type=2 #337
+2025/06/03-16:27:45.867 143c Delete type=2 #339
+2025/06/03-16:27:45.867 143c Delete type=2 #341
+2025/06/03-16:27:45.868 143c Delete type=2 #343
+2025/06/03-19:22:03.306 143c Level-0 table #346: started
+2025/06/03-19:22:03.308 143c Level-0 table #346: 39361 bytes OK
+2025/06/03-19:22:03.311 143c Delete type=0 #342
